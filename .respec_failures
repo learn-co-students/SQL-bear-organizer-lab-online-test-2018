@@ -1,4 +1,3 @@
-querying the bears table selects all of the female bears and returns their name and age
 querying the bears table selects all of the bears names and orders them in alphabetical order
 querying the bears table selects all of the bears names and ages that are alive and order them from youngest to oldest
 querying the bears table selects the oldest bear and returns their name and age
